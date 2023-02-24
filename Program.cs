@@ -11,6 +11,8 @@ namespace Datastructures{
             stack.Push(70);
             stack.Push(37);
             stack.Push(56);
+            stack.pop();
+            stack.Peek();
         }
     }
 }
